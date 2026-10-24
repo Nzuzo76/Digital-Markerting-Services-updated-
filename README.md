@@ -2,7 +2,7 @@
 
 **Digital Marketing Services** is an Internet Marketing, Education & Application Centre located in Manguzi, KwaZulu-Natal, South Africa. Operating since the 2010s under CEO Lucas Smanga Ndimande, the business bridges the digital divide for local students, job seekers, and residents by assisting them with online applications, government systems, and professional document services.
 
-* **Live Website:** [digitalmarketingservices.rf.gd](http://rf.gd)
+* **Live Website:** [https://digitalmarkertingservices.rf.gd/]
 * **Location:** Manguzi, KwaZulu-Natal, South Africa
 * **Founder / CEO:** Lucas Smanga Ndimande
 * **Web Developer:** Nzuzo Mkhize
