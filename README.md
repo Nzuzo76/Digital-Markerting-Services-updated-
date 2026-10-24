@@ -9,28 +9,28 @@
 
 ---
 
-## 🎯 Purpose & Mission
+## Purpose & Mission
 Many community members in Manguzi struggle to navigate complex online government portals, lack modern internet-connected devices, or face high mobile data costs. 
 
 This website provides a highly accessible, lightweight digital storefront that lets clients browse available services and instantly launch a direct support chat without requiring technical experience or high-speed data plans.
 
 ---
 
-## 💼 Services Offered
+##  Services Offered
 
-### 🎓 Education Applications
+###  Education Applications
 * Complete assistance with university and college admissions.
 * Step-by-step processing for student bursaries, including **NSFAS** and **Funza Lushaka**.
 
-### 💼 Career & Job Search Support
+###  Career & Job Search Support
 * Professional, ATS-friendly CV and cover letter writing.
 * Guided online job applications and employment interview preparation.
 
-### 🛡 Security & Government Portals
+###  Security & Government Portals
 * **PSIRA Registrations:** Complete registration applications, renewals, and compliance support for security professionals.
 * **SARS & SASSA:** Assistance with income tax registration, social grant applications, and official government paperwork.
 
-### 🏢 Small Business & Document Solutions
+###  Small Business & Document Solutions
 * **CIPC Registrations:** Official company registration and foundational business plan creation.
 * **Graphic Design:** Custom-designed business flyers, posters, invitations, and promotional materials.
 * **Document Handling:** High-quality printing, scanning, document formatting, and email processing.
@@ -38,7 +38,7 @@ This website provides a highly accessible, lightweight digital storefront that l
 
 ---
 
-## 👥 Target Audience
+##  Target Audience
 * **Matric Learners & Students:** Applying to tertiary institutions and financial aid.
 * **Job Seekers:** Unemployed and employed individuals requiring tailored professional portfolios.
 * **Security Personnel:** Officers managing industry compliance registrations or renewals.
