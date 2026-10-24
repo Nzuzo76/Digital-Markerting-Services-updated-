@@ -1,5 +1,4 @@
 Digital Marketing Services
-
 Business		: Digital Marketing Services
 Location		: Manguzi, KwaZulu-Natal, South Africa
 Owner / CEO		: Lucas Smanga Ndimande
